@@ -1,0 +1,4 @@
+Here implement some examples of the synchronization patterns using semaphores.They are signalling,mutex,multiplex,queue,rend,exclusive,barrier.
+compile the code using the command 
+cc fileame.c -lpthread
+
